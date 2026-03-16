@@ -1,0 +1,21 @@
+=== PARAMETRY SYMULACJI ===
+chan: 10
+q_max: 10
+lambda: 1.0
+mean: 20.0
+sigma: 5.0
+min: 10.0
+max: 30.0
+sim_time: 30
+
+=== WYNIKI (KOLUMNY) ===
+Czas[s]	Q	W	Ro
+0	0	0.00	0.00
+1	0	0.00	0.10
+2	0	0.00	0.10
+3	0	0.00	0.30
+4	0	0.00	0.40
+5	0	0.00	0.40
+6	0	0.00	0.60
+7	0	0.00	0.70
+8	0	0.00	1.00
