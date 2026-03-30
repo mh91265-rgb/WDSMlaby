@@ -1,0 +1,8 @@
+Lab_06
+
+Obliczyłem parametry propagacji fal radiowych (zysk anteny, moc odebraną, straty ścieżki) oraz przesunięcie Dopplera 
+dla różnych scenariuszy ruchu. Wyjaśniłem mechanizmy zaników sygnału (fast/slow fading) oraz zjawiska odbicia i dyfrakcji 
+pozwalające na odbiór w warunkach braku widoczności anteny
+
+Wyzwanie stanowiła poprawna zamiana jednostek między watami a decybelami oraz interpretacja parametrów statystycznych modelu zaników. 
+Ćwiczenie pokazało, jak duży wpływ na jakość połączenia mają przeszkody terenowe i prędkość przemieszczania się użytkownika.
